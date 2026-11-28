@@ -1,4 +1,4 @@
-# SevaSathi – AI-Assisted Certificate Workflow
+# SevaSathi – Certificate Workflow Prototype
 
 A Kannada-first full-stack prototype for organizing an income-certificate application workflow. It demonstrates application tracking, document scrutiny, field-verification reporting, and human-reviewed decisions.
 
